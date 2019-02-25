@@ -1,3 +1,6 @@
+bin
+src/orig
+
 # Compiled class file
 *.class
 
